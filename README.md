@@ -28,5 +28,8 @@
   <hr style="border-top: 1px solid #ccc; width: 50%; margin-top: 5px; margin-bottom: 10px;">
 </div>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivankr8&show_icons=true&locale=en&layout=compact" alt="ivankr8" /></p>
+<p align="center">
+    <img width="340" align="center" src="https://github-readme-stats-salesp07.vercel.app/api?username=IvanKr8&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivankr8&show_icons=true&locale=en&layout=compact" alt="ivankr8" />
+</p>
 
